@@ -1,0 +1,888 @@
+#VRML V2.0 utf8
+Transform { children [
+Transform{
+children [
+Shape{appearance DEF i1 Appearance{material Material{
+transparency 0.3
+}}
+geometry IndexedFaceSet{coord Coordinate{point [
+-0.160957 1.558590 2.468986,
+-0.160957 1.558590 1.425685,
+-0.160957 -1.170136 1.425685,
+-0.160957 -1.170136 2.468986,
+-3.647836 -1.170136 2.468986,
+-3.647836 -1.170136 1.425685,
+-3.647836 1.558590 1.425685,
+-3.647836 1.558590 2.468986
+]} coordIndex[
+3,2,1,0,-1,
+7,6,5,4,-1,
+2,3,4,5,-1,
+6,7,0,1,-1,
+1,2,5,6,-1,
+7,4,3,0,-1,
+]}
+}
+]}
+Transform{
+children [
+Shape{appearance DEF i2 Appearance{material Material{
+transparency 0.3
+}}
+geometry IndexedFaceSet{coord Coordinate{point [
+0.697769 2.370945 0.571160,
+0.697769 2.370945 -3.538554,
+0.697769 -2.847754 -3.538554,
+0.697769 -2.847754 0.571160,
+-1.611351 -2.847754 0.571160,
+-1.611351 -2.847754 -3.538554,
+-1.611351 2.370945 -3.538554,
+-1.611351 2.370945 0.571160
+]} coordIndex[
+3,2,1,0,-1,
+7,6,5,4,-1,
+2,3,4,5,-1,
+6,7,0,1,-1,
+1,2,5,6,-1,
+7,4,3,0,-1,
+]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.834009 2.264215 -2.903530,
+1.418672 1.990693 -2.955314]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.418672 1.990693 -2.955314,
+1.020498 1.702940 -2.862279]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.020498 1.702940 -2.862279,
+0.946420 1.237467 -2.695406]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.946420 1.237467 -2.695406,
+0.716788 0.850007 -2.478278]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.834009 2.264215 -2.903530,
+1.423215 2.495754 -3.069777]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.423215 2.495754 -3.069777,
+0.990998 2.746876 -3.058524]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.834009 2.264215 -2.903530,
+1.949501 2.009547 -3.318025]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.990998 2.746876 -3.058524,
+0.737889 3.019961 -2.724817]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.737889 3.019961 -2.724817,
+0.796984 3.241589 -2.280532]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.946420 1.237467 -2.695406,
+1.112211 0.776292 -2.596254]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.737889 3.019961 -2.724817,
+0.331075 3.278467 -2.591862]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.112211 0.776292 -2.596254,
+1.344626 0.338728 -2.529018]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.344626 0.338728 -2.529018,
+1.506355 -0.019639 -2.220122]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.990998 2.746876 -3.058524,
+0.534716 2.884177 -3.210033]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.949501 2.009547 -3.318025,
+2.098896 1.706918 -3.686938]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.098896 1.706918 -3.686938,
+2.478289 1.386974 -3.747738]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.506355 -0.019639 -2.220122,
+1.449826 -0.504587 -2.112280]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.796984 3.241589 -2.280532,
+0.824794 3.358782 -1.795257]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.824794 3.358782 -1.795257,
+0.791785 3.358221 -1.296348]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.796984 3.241589 -2.280532,
+1.185235 3.336607 -1.980145]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.449826 -0.504587 -2.112280,
+1.202391 -0.938731 -2.129447]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.202391 -0.938731 -2.129447,
+0.829570 -1.250440 -2.011796]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.506355 -0.019639 -2.220122,
+1.705992 -0.175080 -1.788864]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.705992 -0.175080 -1.788864,
+1.845080 -0.332195 -1.335025]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.534716 2.884177 -3.210033,
+0.269562 2.888117 -3.633917]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.791785 3.358221 -1.296348,
+0.854203 3.287833 -0.805278]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.854203 3.287833 -0.805278,
+1.014686 3.338019 -0.334400]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.014686 3.338019 -0.334400,
+1.152895 3.266012 0.140693]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.845080 -0.332195 -1.335025,
+2.030126 -0.567909 -0.934779]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.202391 -0.938731 -2.129447,
+1.004433 -1.343645 -2.345913]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.030126 -0.567909 -0.934779,
+2.217128 -0.830373 -0.552493]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.004433 -1.343645 -2.345913,
+0.962630 -1.792310 -2.562598]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.152895 3.266012 0.140693,
+1.300638 3.204083 0.614335]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.423215 2.495754 -3.069777,
+1.323581 2.900561 -3.345829]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.300638 3.204083 0.614335,
+1.660467 3.064904 0.932380]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.660467 3.064904 0.932380,
+1.990552 2.950584 1.290116]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.217128 -0.830373 -0.552493,
+2.499497 -1.220655 -0.418525]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.791785 3.358221 -1.296348,
+0.544053 3.382030 -0.862687]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.300638 3.204083 0.614335,
+1.234986 3.018490 1.073949]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.234986 3.018490 1.073949,
+1.155200 2.861392 1.541875]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.845080 -0.332195 -1.335025,
+2.292669 -0.419516 -1.129992]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.292669 -0.419516 -1.129992,
+2.619810 -0.215451 -0.811658]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.990552 2.950584 1.290116,
+2.311419 2.643365 1.519594]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.311419 2.643365 1.519594,
+2.595215 2.524955 1.913851]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.155200 2.861392 1.541875,
+1.091227 2.556490 1.932953]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.791785 3.358221 -1.296348,
+0.537279 3.343797 -0.866210]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.311419 2.643365 1.519594,
+2.763373 2.431195 1.492730]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.499497 -1.220655 -0.418525,
+2.545981 -1.584568 -0.078809]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.091227 2.556490 1.932953,
+1.187536 2.135901 2.185598]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.091227 2.556490 1.932953,
+0.737830 2.473928 2.276893]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.791785 3.358221 -1.296348,
+0.522959 3.385247 -0.875632]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.545981 -1.584568 -0.078809,
+2.717290 -1.847078 0.310732]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.217128 -0.830373 -0.552493,
+2.219200 -0.951419 -0.067371]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.478289 1.386974 -3.747738,
+2.621467 0.959788 -3.964562]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.990552 2.950584 1.290116,
+2.299075 3.127195 1.641715]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.331075 3.278467 -2.591862,
+-0.127912 3.421819 -2.454818]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.323581 2.900561 -3.345829,
+1.514478 3.338746 -3.492635]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.791785 3.358221 -1.296348,
+0.616743 3.290702 -0.832881]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.127912 3.421819 -2.454818,
+-0.578739 3.537917 -2.272399]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.962630 -1.792310 -2.562598,
+1.098756 -2.207111 -2.806339]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.155200 2.861392 1.541875,
+1.017244 3.010950 1.998603]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.311419 2.643365 1.519594,
+2.545363 2.281781 1.773617]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.737830 2.473928 2.276893,
+0.511012 2.370628 2.710347]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.717290 -1.847078 0.310732,
+2.994743 -2.248083 0.421252]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.578739 3.537917 -2.272399,
+-1.070443 3.484164 -2.345459]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.717290 -1.847078 0.310732,
+2.728688 -2.095103 0.744729]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.763373 2.431195 1.492730,
+3.199790 2.187876 1.474393]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.070443 3.484164 -2.345459,
+-1.458968 3.228526 -2.161890]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.219200 -0.951419 -0.067371,
+2.142263 -0.977790 0.425970]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [3.199790 2.187876 1.474393,
+3.681782 2.277611 1.376254]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.534716 2.884177 -3.210033,
+0.121386 3.088833 -3.403099]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.234986 3.018490 1.073949,
+0.958063 2.795305 1.425378]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.511012 2.370628 2.710347,
+0.299677 2.113768 3.083657]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.949501 2.009547 -3.318025,
+2.377683 1.758315 -3.377547]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.142263 -0.977790 0.425970,
+2.156412 -0.841047 0.906699]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.717290 -1.847078 0.310732,
+3.122205 -1.849486 0.604054]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.070443 3.484164 -2.345459,
+-1.537031 3.457344 -2.523155]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.121386 3.088833 -3.403099,
+-0.135675 3.511068 -3.478178]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.737830 2.473928 2.276893,
+0.249383 2.440690 2.378453]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.845080 -0.332195 -1.335025,
+1.904682 -0.159189 -0.869712]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.946420 1.237467 -2.695406,
+0.764652 0.789138 -2.821745]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.962630 -1.792310 -2.562598,
+0.710176 -2.138582 -2.820206]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.299677 2.113768 3.083657,
+0.378893 1.975957 3.557717]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.187536 2.135901 2.185598,
+1.352557 1.666088 2.230805]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.004433 -1.343645 -2.345913,
+0.848988 -1.529164 -2.783428]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.014686 3.338019 -0.334400,
+1.357265 3.574111 -0.057091]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.269562 2.888117 -3.633917,
+0.092554 2.709700 -4.066162]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.904682 -0.159189 -0.869712,
+1.990833 0.198761 -0.531408]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.728688 -2.095103 0.744729,
+2.596954 -2.404793 1.114510]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [3.199790 2.187876 1.474393,
+3.578075 1.911823 1.649594]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.458968 3.228526 -2.161890,
+-1.823555 2.936482 -1.983604]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.596954 -2.404793 1.114510,
+2.380666 -2.712807 1.443670]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.299677 2.113768 3.083657,
+0.010479 1.832935 3.379457]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.010479 1.832935 3.379457,
+-0.309387 1.460669 3.474871]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.380666 -2.712807 1.443670,
+2.087350 -2.913876 1.795149]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.418672 1.990693 -2.955314,
+1.209903 1.686512 -2.617839]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.098756 -2.207111 -2.806339,
+1.341744 -2.605303 -2.986339]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.185235 3.336607 -1.980145,
+1.646866 3.398247 -1.798220]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.823555 2.936482 -1.983604,
+-2.025644 2.679698 -1.605157]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.596954 -2.404793 1.114510,
+2.262571 -2.469204 1.480624]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.087350 -2.913876 1.795149,
+1.925802 -3.162982 2.197453]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.352557 1.666088 2.230805,
+1.524596 1.244178 2.436705]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.994743 -2.248083 0.421252,
+3.245547 -2.643291 0.245444]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.135675 3.511068 -3.478178,
+-0.218519 4.004155 -3.479842]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [3.578075 1.911823 1.649594,
+3.835736 1.584508 1.926135]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-2.025644 2.679698 -1.605157,
+-2.278936 2.389427 -1.286431]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.619810 -0.215451 -0.811658,
+3.075987 -0.173259 -0.611354]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.309387 1.460669 3.474871,
+-0.562593 1.034969 3.406566]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [3.835736 1.584508 1.926135,
+4.170056 1.515242 2.291420]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.562593 1.034969 3.406566,
+-0.626576 0.550454 3.512169]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.626576 0.550454 3.512169,
+-0.853743 0.111603 3.435982]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.853743 0.111603 3.435982,
+-1.148523 -0.254528 3.265533]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-0.562593 1.034969 3.406566,
+-0.451762 0.608138 3.170912]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.148523 -0.254528 3.265533,
+-1.471474 -0.568191 3.048005]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.537031 3.457344 -2.523155,
+-1.972961 3.310062 -2.718790]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.471474 -0.568191 3.048005,
+-1.806985 -0.849223 2.806234]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.854203 3.287833 -0.805278,
+0.956996 3.005319 -0.405754]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.524596 1.244178 2.436705,
+1.841793 0.858886 2.467303]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [3.245547 -2.643291 0.245444,
+3.636429 -2.899592 0.067902]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [1.925802 -3.162982 2.197453,
+1.888029 -3.407732 2.631815]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [2.380666 -2.712807 1.443670,
+2.362107 -3.198661 1.560296]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.806985 -0.849223 2.806234,
+-2.148559 -1.110781 2.551450]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-2.148559 -1.110781 2.551450,
+-2.493280 -1.360771 2.289397]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-2.493280 -1.360771 2.289397,
+-2.839745 -1.603791 2.023119]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-2.839745 -1.603791 2.023119,
+-3.094505 -1.860197 1.677644]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-3.094505 -1.860197 1.677644,
+-3.412153 -2.103944 1.378166]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-3.412153 -2.103944 1.378166,
+-3.769848 -2.334946 1.116074]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-3.769848 -2.334946 1.116074,
+-3.833043 -2.760913 0.861990]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [-1.537031 3.457344 -2.523155,
+-1.851581 3.617938 -2.877087]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{geometry IndexedLineSet{coord Coordinate{point [0.737830 2.473928 2.276893,
+0.468434 2.189287 2.587384]} coordIndex[0,1,-1]}
+}
+]}
+Transform{
+children [
+Shape{appearance DEF i3 Appearance{material Material{
+diffuseColor 1.0 0.0 0.0
+}}
+geometry IndexedLineSet{coord Coordinate{point [
+-4.158638 -2.552514 0.889123,
+-3.769848 -2.334946 1.116074,
+-3.412153 -2.103944 1.378166,
+-3.094505 -1.860197 1.677644,
+-2.839745 -1.603791 2.023119,
+-2.493280 -1.360771 2.289397,
+-2.148559 -1.110781 2.551450,
+-1.806985 -0.849223 2.806234,
+-1.471474 -0.568191 3.048005,
+-1.148523 -0.254528 3.265533,
+-0.853743 0.111603 3.435982,
+-0.626576 0.550454 3.512169,
+-0.562593 1.034969 3.406566,
+-0.309387 1.460669 3.474871,
+0.010479 1.832935 3.379457,
+0.299677 2.113768 3.083657,
+0.511012 2.370628 2.710347,
+0.737830 2.473928 2.276893,
+1.091227 2.556490 1.932953,
+1.155200 2.861392 1.541875,
+1.234986 3.018490 1.073949,
+1.300638 3.204083 0.614335,
+1.152895 3.266012 0.140693,
+1.014686 3.338019 -0.334400,
+0.854203 3.287833 -0.805278,
+0.791785 3.358221 -1.296348,
+0.824794 3.358782 -1.795257,
+0.796984 3.241589 -2.280532,
+0.737889 3.019961 -2.724817,
+0.990998 2.746876 -3.058524,
+1.423215 2.495754 -3.069777]} coordIndex[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, -1]}
+}
+]}
+Transform{
+translation 1.834009 2.264215 -2.903530
+children [
+Shape{appearance DEF i4 Appearance{material Material{
+diffuseColor 0.0 1.0 0.0
+}}
+geometry Box{size 0.25 0.25 0.25}
+}
+]}
+Transform{
+translation -4.335417 -2.609541 0.858350
+children [
+Shape{appearance DEF i5 Appearance{material Material{
+diffuseColor 0.0 0.0 1.0
+}}
+geometry Box{size 0.25 0.25 0.25}
+}
+]}
+]}
